@@ -1,0 +1,4 @@
+com\memorynotfound\spring\security\web\HomeController.class
+com\memorynotfound\spring\security\web\LoggingAccessDeniedHandler.class
+com\memorynotfound\spring\security\config\SecurityConfig.class
+com\memorynotfound\spring\security\Run.class
